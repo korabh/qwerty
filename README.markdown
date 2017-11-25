@@ -4,8 +4,8 @@ qwerty.vim
 A colorful, dark color scheme.
 
 Use the plugin manager of your choice, here is an example for Vim-Plug:
-`Plug 'korabh/qwerty'`
 
+`Plug 'korabh/qwerty'`
 `:PlugInstall`
 
 To preview:
