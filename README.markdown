@@ -11,6 +11,7 @@ color qwerty
 If you would prefer to use your terminal's default background.
 
 ## Screenshots
+![Screenshot](https://image.ibb.co/dx9NHm/qwerty.png)
 
 The font in the screenshot is 10pt [Inconsolata][inconsolata]:
 
@@ -22,4 +23,3 @@ set guifont=Inconsolata:h10
 
 [mozaix_llc]: http://mozaixllc.com
 [inconsolata]: https://www.fontsquirrel.com/fonts/inconsolata
-
