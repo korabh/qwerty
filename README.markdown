@@ -18,9 +18,6 @@ color qwerty
 
 If you would prefer to use your terminal's default background.
 
-## Screenshots
-![Screenshot](https://image.ibb.co/dx9NHm/qwerty.png)
-
 The font in the screenshot is 10pt [Inconsolata][inconsolata]:
 
 ```vim
